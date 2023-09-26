@@ -1,0 +1,14 @@
+
+.card{
+    display: flex;
+    width: [object Object]px; 
+	height: [object Object]px; 
+	background: #0000FF; 
+	border: solid #000000 19px; 
+	box-shadow: 5px 5px 100px rgba(0, 0, 0, 0) inset; 
+}
+
+.username, .password, .sign-in {
+    flex-direction: column;
+    align-items: center;
+}
