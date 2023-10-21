@@ -11,7 +11,9 @@ body{
 .card{
     display: flex;
     flex-direction: column;
-    width: 400px; 
+    width: 80vh; 
+    min-width: 30vh;
+    max-width: 700px;
 	height: 400px; 
 	background: #ffffff; 
 	border: solid #000000 19px; 
