@@ -11,11 +11,12 @@ body{
 .card{
     display: flex;
     flex-direction: column;
-    width: 80vh; 
-    min-width: 30vh;
+    width: 60vh; 
+    min-width: 250px;
     max-width: 700px;
 	height: 50vh;
-    min-height: 180px; 
+    min-height: 230px;
+    max-height: 500px;
 	background: #ffffff; 
 	border: solid #000000 19px; 
 	box-shadow: 5px 5px 100px rgb(0, 0, 0); 
